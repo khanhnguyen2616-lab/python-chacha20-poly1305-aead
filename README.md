@@ -14,4 +14,4 @@ Mô phỏng cách thức vận hành của thuật toán Chacha20-Poly1305 dựa
 ##  Cách chạy thử
 Bạn chỉ cần tải file `chacha20_aead.py` về và chạy bằng lệnh:
 ```bash
-python3 chacha20_aead.py
+python3 "tên file".py
